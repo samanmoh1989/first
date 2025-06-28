@@ -1,2 +1,3 @@
 # first
 MY FIRST TRY FOR BECOME DATA SCIENTIST 
+just trst
